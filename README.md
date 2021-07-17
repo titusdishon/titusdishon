@@ -5,7 +5,7 @@
 
 ## **🙋‍♂️ About Me**
 
-- 🔭 I’m currently learnin on **Golang and docker**
+- 🔭 I’m currently learning on **Golang and docker**
 
 - 🌱 I’m currently learning **Go programming language and docker.**
 
