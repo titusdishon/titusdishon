@@ -5,6 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
+<hr>
 - 🔭 I’m currently learnin on **Golang and docker**
 
 - 🌱 I’m currently learning **Go programming language and docker.**
@@ -14,9 +15,11 @@
 - 📫 How to reach me **titusdishon@gmail.com**
 
 - ⚡ **I love listening to No Copyright Songs (NCS).**
+<hr>
 
 ## 🚀 Languages and Tools:
 
+<hr>
 ### Frontend Languages and Frameworks:
 
 <p align="left"  style="background-color:white !important; padding:20px;"> 
@@ -35,11 +38,9 @@
     Bootstrap 3&4 </a> 
 </p>
 <br>
-<br>
-
+<hr>
 ### Backend Languages and Frameworks:
 
-<hr>
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/js.svg" width="48" height="48"/> Javascript</a> 
     <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/golang.svg" width="48" height="48"/>Go</a>
@@ -49,22 +50,18 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/express.svg " alt="express" width="48" height="48"/> Express js</a>
 </p>
 <br>
-<br>
-
+<hr>
 ### Database Technologies:
 
-<hr>
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mysql.svg"/width="48" height="48"> Mysql</a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mongo.svg" alt="mongodb" width="48" height="48"/>Mongo DB </a> 
 </p>
 
 <br>
-<br>
-
+<hr>
 ### Tools:
 
-<hr>
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/postman.svg" alt="postman" width="48" height="48"/> Postman</a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/git.svg" width="48" height="48"/>Git </a> 
@@ -73,10 +70,9 @@
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/docker.svg" width="48" height="48"/>Docker</a> 
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/aws.svg" width="48" height="48"/>Aws</a> 
 </p>
-
-<br/>
 <br/>
 <hr>
+
 ## Connect with me:
 
 <p align="left">
@@ -84,7 +80,7 @@
 <a href = "https://www.linkedin.com/in/titusdishon"><img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/linkedin.svg"/></a>
 
 </p>
-
+<hr>
 ## ❤ Views and Followers
 
 <a href="https://github.com/titusdishon?tab=followers"><img src="https://img.shields.io/github/followers/titusdishon?label=Followers&style=social" alt="GitHub Badge"></a>
