@@ -17,10 +17,11 @@
 - ⚡ **I love listening to No Copyright Songs (NCS).**
 <hr>
 
-## 🚀 Languages and Tools:
+# 🚀 Languages and Tools:
 
 <hr>
-### Frontend Languages and Frameworks:
+
+## Frontend Languages and Frameworks:
 
 <p align="left"  style="background-color:white !important; padding:20px;"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/react.svg" width="48" height="48"/> React Js</a>
@@ -38,8 +39,8 @@
     Bootstrap 3&4 </a> 
 </p>
 <br>
-<hr>
-### Backend Languages and Frameworks:
+
+## Backend Languages and Frameworks:
 
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/js.svg" width="48" height="48"/> Javascript</a> 
@@ -50,8 +51,8 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/express.svg " alt="express" width="48" height="48"/> Express js</a>
 </p>
 <br>
-<hr>
-### Database Technologies:
+
+## Database Technologies:
 
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mysql.svg"/width="48" height="48"> Mysql</a>
@@ -59,8 +60,8 @@
 </p>
 
 <br>
-<hr>
-### Tools:
+
+## Tools:
 
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/postman.svg" alt="postman" width="48" height="48"/> Postman</a>   
@@ -71,7 +72,6 @@
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/aws.svg" width="48" height="48"/>Aws</a> 
 </p>
 <br/>
-<hr>
 
 ## Connect with me:
 
