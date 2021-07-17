@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **titusdishon@gmail.com**
 
-- ⚡ Fun fact **I love listening to No Copyright Songs (NCS).**
+- ⚡ **I love listening to No Copyright Songs (NCS).**
 
 ## 🚀 Languages and Tools:
 
-### Frontend:
+### Frontend Languages and Frameworks:
 
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/react.svg" width="48" height="48"/> React Js</a>
@@ -25,6 +25,7 @@
     <a href="https://react-query.tanstack.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/rq.svg" width="48" height="48"/> React Query</a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/redux.svg" width="48" height="48"/> Redux
     </a>
+    <br>
     <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/graphql.svg" width="48" height="48"/>
     Graphql</a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/html.svg" width="48" height="48"/>   HTML 5</a> 
@@ -35,7 +36,7 @@
 <br>
 <br>
 
-### Backend Languages and Frameworks
+### Backend Languages and Frameworks:
 
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/js.svg" width="48" height="48"/> Javascript</a> 
@@ -45,15 +46,20 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/node.svg" width="48" height="48"/>Node Js </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/express.svg " alt="express" width="48" height="48"/> Express js</a>
 </p>
+<br>
+<br>
 
-### Database
+### Database Technologies:
 
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mysql.svg"/width="48" height="48"> Mysql</a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mongo.svg" alt="mongodb" width="48" height="48"/>Mongo DB </a> 
 </p>
 
-### Tools & Services
+<br>
+<br>
+
+### Tools:
 
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/postman.svg" alt="postman" width="48" height="48"/> Postman</a>   
