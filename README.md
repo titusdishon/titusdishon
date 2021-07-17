@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mern-stack.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/coder.svg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Titus Dishon</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Kenya.</h3>
@@ -19,16 +19,17 @@
 
 ### Frontend Languages and Frameworks:
 
-<p align="left"  style="background-color:white; padding:20px;"> 
+<p align="left"  style="background-color:white !important; padding:20px;"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/react.svg" width="48" height="48"/> React Js</a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/ts.svg" width="48" height="48"/> Typescript</a> 
     <a href="https://react-query.tanstack.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/rq.svg" width="48" height="48"/> React Query</a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/redux.svg" width="48" height="48"/> Redux
     </a>
-    <br>
     <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/graphql.svg" width="48" height="48"/>
     Graphql</a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/html.svg" width="48" height="48"/>   HTML 5</a> 
+    <br>
+    <br>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/css.svg" width="48" height="48"/>CSS3 </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/bs.svg" width="48" height="48"/>
     Bootstrap 3&4 </a> 
@@ -66,7 +67,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/git.svg" width="48" height="48"/>Git </a> 
     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/github.svg" width="48" height="48"/>Github </a> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/vs.svg" width="48" height="48"/>Visual Studio Code </a> 
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/vs.svg" width="48" height="48"/>Docker</a> 
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/docker.svg" width="48" height="48"/>Docker</a> 
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/aws.svg" width="48" height="48"/>Aws</a> 
 </p>
 
