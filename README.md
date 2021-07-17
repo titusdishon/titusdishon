@@ -3,9 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Titus Dishon</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Kenya.</h3>
 
-## 🙋‍♂️ About Me
+## **🙋‍♂️ About Me**
 
-<hr>
 - 🔭 I’m currently learnin on **Golang and docker**
 
 - 🌱 I’m currently learning **Go programming language and docker.**
@@ -15,11 +14,10 @@
 - 📫 How to reach me **titusdishon@gmail.com**
 
 - ⚡ **I love listening to No Copyright Songs (NCS).**
-<hr>
 
-# 🚀 Languages and Tools:
+<a href="#"><img width="100%" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/tools.svg" height="100px"/></a>
 
-<hr>
+# 🚀 **Languages and Tools**:
 
 ## Frontend Languages and Frameworks:
 
