@@ -16,19 +16,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/react.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/go.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/nodejs.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/graphql.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/sql.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/mysql" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/html.phn" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/css.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/github.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/aws.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/docker.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/vscode.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/react.svg" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/go.svg" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/nodejs.svg" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/graphql.svg" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/sql.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mysql" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/html.phn" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/css.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/github.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/aws.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/docker.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/vscode.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/git.png" />]
 
 <br />
 <br />
