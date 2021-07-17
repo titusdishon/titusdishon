@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/reactjs.svg" />]
+[<img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/reactjs.svg" />]`React js `
 [<img align="left" alt="Go" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/go.svg" />]
 [<img align="left" alt="Node js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/node-js.svg" />]
 [<img align="left" alt="Graphql" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/graphql.svg" />]
