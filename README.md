@@ -12,8 +12,8 @@
 - 👔 I am a frontend developer at **Proto Energy Limited**
 
 - 📫 How to reach me:
-     - 📧 Email **titusdishon@gmail.com**
-     - 🤙 Mobile **+254726856793**
+     - 📧 **titusdishon@gmail.com**
+     - 🤙 **+254726856793**
 
 - ❤ **I love listening to music and doing workouts.**
 
