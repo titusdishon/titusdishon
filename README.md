@@ -17,8 +17,6 @@
 
 - ❤ **I love listening to music and doing workouts.**
 
-<a href="#"><img width="100%" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/tools.svg" height="100px"/></a>
-
 # 🚀 **Languages and Tools**:
 
 ## Frontend Languages and Frameworks:
