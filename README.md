@@ -1,65 +1,52 @@
-install.packages("fontawesome")
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-### Hi there, I'm Titus Dishon 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Titus Dishon</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Kenya.</h3>
 
-##### NB: Am currently working on my personal website
+## 🙋‍♂️ About Me
 
-#### I'm a Developer, Son, Brother and a tech enthusiast!!
+- 🔭 I’m currently learnin on **Golang and docker**
 
-- 🌱 I’m currently learning everything golang and cloud development 🤣
-- 👯 I strive to provide the best software solutions to my clients
-- 🥅 2021 Goals: Become a pro go developer
+- 🌱 I’m currently learning **Go programming language and docker.**
 
-### Connect with me:
+- 👨‍💻 I am a frontend developer at **Proto Energy Limited**
 
-[<img align="left" alt="titusdishon | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 📫 How to reach me **titusdishon@gmail.com**
 
-<br />
+- ⚡ Fun fact **I love listening to No Copyright Songs (NCS).**
 
-### Languages and Tools:
+## 🚀 Languages and Tools:
 
-### <i class="fab fa-node style="color:rgb(0, 230, 0); font-size:.85em" aria-hidden="true">Node Js</i>
+<p align="left" style="background-color: #ffffff, padding:20px "> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/html.svg"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/css.svg"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/react.svg"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/redux.svg"> </a>
+    <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/golang.svg"/></a>
+    <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/graphql.svg"/></a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/bs.svg"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/node.svg"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mysql.svg"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mongo.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/postman.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/git.svg"/> </a> 
+    <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/github.svg"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/express.svg" alt="express" width="40" height="40"/> </a>
+</p>
 
----
+<br/>
+<br/>
 
-title: "Font Awesome in R Markdown"
-output: html_document
+## Connect with me:
 
----
+<p align="left">
 
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
-library(fontawesome)
-```
+<a href = "https://www.linkedin.com/in/titusdishon"><img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/linkedin.svg"/></a>
 
-# Just a few tests with `r fa("font-awesome-logo-full", fill = "forestgreen")`
+</p>
 
-It works well in headings...
+## ❤ Views and Followers
 
-# `r fa("r-project", fill = "steelblue")` H1 Heading
-
-## `r fa("r-project", fill = "steelblue")` H2 Heading
-
-### `r fa("r-project", fill = "steelblue")` H3 Heading
-
-#### `r fa("r-project", fill = "steelblue")` H4 Heading
-
-##### `r fa("r-project", fill = "steelblue")` H5 Heading
-
-...and works equally well within inline text: `r fa("r-project", fill = "steelblue")`.
-
-{: #node-js}
-<img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/reactjs.svg" />
-<img align="left" alt="Go" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/go.svg" />
-<img align="left" alt="Node js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/node-js.svg" />
-<img align="left" alt="Graphql" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/graphql.svg" />
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/sql.png" />
-<img align="left" alt="mysql" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mysql.svg" />
-<img align="left" alt="html" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/html.svg" />
-<img align="left" alt="css3" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/css3.svg" />
-<img align="left" alt="github" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/github.svg" />
-<img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/aws.png" />
-<img align="left" alt="docker" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/docker.svg" />
-<img align="left" alt="vscode" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/vscode.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/git.svg" />
-
-[linkedin]: https://www.linkedin.com/in/titus-dishon-862289104
+<a href="https://github.com/titusdishon?tab=followers"><img src="https://img.shields.io/github/followers/titusdishon?label=Followers&style=social" alt="GitHub Badge"></a>
+# titusdishon
