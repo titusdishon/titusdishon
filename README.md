@@ -27,7 +27,7 @@
 [<img align="left" alt="github" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/github.svg" />]
 [<img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/aws.png" />]
 [<img align="left" alt="docker" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/docker.svg" />]
-[<img align="left" alt="vscode" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/vscode.svg" />]
+[<img align="left" alt="vscode" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/vscode.png" />]
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/git.svg" />]
 
 [linkedin]: https://www.linkedin.com/in/titus-dishon-862289104
