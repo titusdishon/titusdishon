@@ -1,3 +1,5 @@
+install.packages("fontawesome")
+
 ### Hi there, I'm Titus Dishon 👋
 
 ##### NB: Am currently working on my personal website
