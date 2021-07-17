@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/react.svg" />]
+[<img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/reactjs.svg" />]
 [<img align="left" alt="Go" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/go.svg" />]
 [<img align="left" alt="Node js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/node-js.svg" />]
 [<img align="left" alt="Graphql" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/graphql.svg" />]
@@ -26,11 +26,8 @@
 [<img align="left" alt="css3" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/css3.svg" />]
 [<img align="left" alt="github" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/github.svg" />]
 [<img align="left" alt="aws" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/aws.png" />]
-[<img align="left" alt="docker" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/docker.png" />]
+[<img align="left" alt="docker" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/docker.svg" />]
 [<img align="left" alt="vscode" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/vscode.svg" />]
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/git.svg" />]
-
-<br />
-<br />
 
 [linkedin]: https://www.linkedin.com/in/titus-dishon-862289104
