@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/coder.svg" height="200px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/redux.svg" width="30px">, I'm Titus Dishon</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/wave.gif" width="30px">, I'm Titus Dishon</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Kenya 🇰🇪.</h3>
 
 ## **🙋‍♂️ About Me**
