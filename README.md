@@ -1,8 +1,8 @@
-### Hi there, I'm Titus Dishon [TitusDishon] 👋
+### Hi there, I'm Titus Dishon 👋
 
-## NB: Am currently working on my personal website
+##### NB: Am currently working on my personal website
 
-## I'm a Developer, Son, Brother and a tech enthusiast!!
+#### I'm a Developer, Son, Brother and a tech enthusiast!!
 
 - 🌱 I’m currently learning everything golang and cloud development 🤣
 - 👯 I strive to provide the best software solutions to my clients
