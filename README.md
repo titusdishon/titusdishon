@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="titusdishon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -21,7 +21,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/nodejs.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/graphql.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/sql.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/mysql" />]
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/mysql.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/html.phn" />]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/css.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/titusdishon/titusdishon/blob/master/github.png" />]
