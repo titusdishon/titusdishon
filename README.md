@@ -18,6 +18,8 @@
 
 ### <i class="fab fa-node style="color:rgb(0, 230, 0); font-size:.85em" aria-hidden="true">Node Js</i>
 
+# `r fa("r-project", fill = "steelblue")` H1 Heading
+
 {: #node-js}
 <img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/reactjs.svg" />
 <img align="left" alt="Go" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/go.svg" />
