@@ -18,7 +18,32 @@
 
 ### <i class="fab fa-node style="color:rgb(0, 230, 0); font-size:.85em" aria-hidden="true">Node Js</i>
 
+---
+
+title: "Font Awesome in R Markdown"
+output: html_document
+
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
+
+# Just a few tests with `r fa("font-awesome-logo-full", fill = "forestgreen")`
+
+It works well in headings...
+
 # `r fa("r-project", fill = "steelblue")` H1 Heading
+
+## `r fa("r-project", fill = "steelblue")` H2 Heading
+
+### `r fa("r-project", fill = "steelblue")` H3 Heading
+
+#### `r fa("r-project", fill = "steelblue")` H4 Heading
+
+##### `r fa("r-project", fill = "steelblue")` H5 Heading
+
+...and works equally well within inline text: `r fa("r-project", fill = "steelblue")`.
 
 {: #node-js}
 <img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/reactjs.svg" />
