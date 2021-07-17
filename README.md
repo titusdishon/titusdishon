@@ -39,6 +39,7 @@
 
 ### Backend Languages and Frameworks:
 
+<hr>
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/js.svg" width="48" height="48"/> Javascript</a> 
     <a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/golang.svg" width="48" height="48"/>Go</a>
@@ -52,6 +53,7 @@
 
 ### Database Technologies:
 
+<hr>
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mysql.svg"/width="48" height="48"> Mysql</a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/mongo.svg" alt="mongodb" width="48" height="48"/>Mongo DB </a> 
@@ -62,6 +64,7 @@
 
 ### Tools:
 
+<hr>
 <p align="left"  style="background-color:white; padding:20px;"> 
     <a href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/postman.svg" alt="postman" width="48" height="48"/> Postman</a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/git.svg" width="48" height="48"/>Git </a> 
@@ -73,7 +76,7 @@
 
 <br/>
 <br/>
-
+<hr>
 ## Connect with me:
 
 <p align="left">
