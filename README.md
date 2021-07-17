@@ -16,6 +16,9 @@
 
 ### Languages and Tools:
 
+### <i class="fab fa-node style="color:rgb(0, 230, 0); font-size:.85em" aria-hidden="true"></i> Node Js
+
+{: #node-js}
 <img align="left" alt="React js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/reactjs.svg" />
 <img align="left" alt="Go" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/go.svg" />
 <img align="left" alt="Node js" width="40px" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/node-js.svg" />
