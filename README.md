@@ -1,21 +1,21 @@
 <a href="#"><img width="100%" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/coder.svg" height="200px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Titus Dishon</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Kenya.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/wave.gif" width="30px">, I'm Titus Dishon</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Kenya 🇰🇪.</h3>
 
 ## **🙋‍♂️ About Me**
 
-- 🔭 I’m currently learnin on **Golang and docker**
+- ☘ I’m continously learning to improve my coding skills.
 
 - 🌱 I’m currently learning **Go programming language and docker.**
 
-- 👨‍💻 I am a frontend developer at **Proto Energy Limited**
+- 👔 I am a frontend developer at **Proto Energy Limited**
 
-- 📫 How to reach me **titusdishon@gmail.com**
+- 📫 How to reach me:
+     - 📧 **titusdishon@gmail.com**
+     - 🤙 **+254726856793**
 
-- ⚡ **I love listening to No Copyright Songs (NCS).**
-
-<a href="#"><img width="100%" src="https://raw.githubusercontent.com/titusdishon/titusdishon/master/tools.svg" height="100px"/></a>
+- ❤ **I love listening to music and doing workouts.**
 
 # 🚀 **Languages and Tools**:
 
