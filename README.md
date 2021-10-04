@@ -17,7 +17,6 @@
 
 - ❤ **I love listening to music and doing workouts.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titusdishon)](https://github.com/titusdishon/github-readme-stats)
 
 # 🚀 **Languages and Tools**:
 
